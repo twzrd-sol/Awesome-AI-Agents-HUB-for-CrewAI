@@ -142,3 +142,7 @@ Your contributions help drive the evolution of AI applications. Whether it’s n
 
 ### Note
 Some project ideas have been inspired by awesome repositories such as [awesome LLM apps](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main).
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for CrewAI multi-agent systems. When CrewAI crews operate autonomously and delegate to external agents or access paid APIs via x402, TWZRD verifies which agent is acting and its trust score. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
